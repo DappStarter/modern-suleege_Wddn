@@ -1,0 +1,8 @@
+{
+    "name": "y_app",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true
+    }
+}
